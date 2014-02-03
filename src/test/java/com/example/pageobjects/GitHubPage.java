@@ -33,7 +33,7 @@ public abstract class GitHubPage<T> {
 
 	/**
 	 * Provides condition when page can be considered as fully loaded.
-	 *
+	 * Just creating one more version
 	 * @return
 	 */
 	protected abstract ExpectedCondition getPageLoadCondition();

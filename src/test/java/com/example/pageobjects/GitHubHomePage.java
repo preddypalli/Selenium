@@ -5,7 +5,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 
 /**
  * Page object representing github home page.
- *
+ *Just creating one more version
  * @author mlipski
  */
 public class GitHubHomePage extends GitHubPage<GitHubHomePage> {

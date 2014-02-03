@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 
 /**
  * Page object representing github login page.
+ Just creating one more version
  */
 public class GitHubLoginPage extends GitHubPage<GitHubLoginPage> {
 
